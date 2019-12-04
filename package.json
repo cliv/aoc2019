@@ -1,0 +1,9 @@
+{
+  "name": "advent2019",
+  "version": "1.0.0",
+  "description": "Advent of Code - 2019 Solutions",
+  "main": "index.js",
+  "author": "cliv@ath0.net",
+  "license": "MIT",
+  "private": true
+}
