@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "cliv@ath0.net",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
